@@ -56,7 +56,7 @@ With `collect_stats = true`:
     - `entries`: The number of entries in the conntrack table
     - `searched`: The number of conntrack table lookups performed
     - `found`: The number of searched entries which were successful
-    - `new`: The number of entries added which were not expec- `efore
+    - `new`: The number of entries added which were not expected before
     - `invalid`: The number of packets seen which can not be tracked
     - `ignore`: The number of packets seen which are already connected to an entry
     - `delete`: The number of entries which were removed
